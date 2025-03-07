@@ -1,0 +1,8 @@
+nltk
+scikit-learn
+Flask
+Flask-Cors
+numpy
+pandas
+stopwords 
+punkt
