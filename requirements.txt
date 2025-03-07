@@ -4,5 +4,3 @@ Flask
 Flask-Cors
 numpy
 pandas
-stopwords 
-punkt
